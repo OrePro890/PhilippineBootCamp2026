@@ -9,13 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## Rawr
 
-Use the DIP switch to control seven segment display
-wadawdawd
+Use the DIP switch to control seven segment display wadawdawd
+
 ## Test
 
-Use the DIP switch to control seven segment display
-dwadawdawdaw
+Use the DIP switch to control seven segment display dwadawdawdaw
+
 ## Bootcamp 2026
 
-Use the DIP switch to control seven segment display
-dwdawdawfwafwa
+Use the DIP switch to control seven segment display dwdawdawfwafwa
