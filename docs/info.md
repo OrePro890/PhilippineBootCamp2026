@@ -10,11 +10,12 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 Use the DIP switch to contro seven segment display
-
+wadawdawd
 ## How to test
 
 Explain how to use your project
-
+dwadawdawdaw
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+dwdawdawfwafwa
