@@ -7,15 +7,15 @@ You can also include images in this folder and reference them in the markdown. E
 512 kb in size, and the combined size of all images must be less than 1 MB.
 -->
 
-## How it works
+## Rawr
 
 Use the DIP switch to control seven segment display
 wadawdawd
-## How to test
+## Test
 
 Use the DIP switch to control seven segment display
 dwadawdawdaw
-## External hardware
+## Bootcamp 2026
 
 Use the DIP switch to control seven segment display
 dwdawdawfwafwa
